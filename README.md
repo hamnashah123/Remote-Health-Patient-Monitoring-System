@@ -34,7 +34,7 @@ A Java-based modular application designed to simulate a remote health monitoring
 
 ##  How to Run
 
-1. **Clone the repository**
+ **Clone the repository**
 
 ```bash
 git clone https://github.com/hamnashah123/Remote-Health-Patient-Monitoring-System.git
