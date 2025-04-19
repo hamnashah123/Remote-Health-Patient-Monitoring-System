@@ -4,26 +4,24 @@ A Java-based modular application designed to simulate a remote health monitoring
 
 ---
 
-## 📁 Project Structure
-RemoteHealthMonitoringSystem/ ├── emergency/ │ ├── EmergencyAlert.java │ └── PanicButton.java ├── consultation/ │ ├── AppointmentScheduler.java │ ├── ChatClient.java │ ├── ChatServer.java │ └── VideoCall.java ├── notifications/ │ ├── Notifiable.java │ ├── EmailNotification.java │ ├── SMSNotification.java │ └── NotificationService.java ├── ReminderService.java ├── FeedbackSystem.java ├── PatientManager.java ├── MainApp.java
 
 
 
 ---
 
-## ✅ Features
+## Features
 
-- ✅ **Patient Management**: Add, list, and manage patients.
-- ✅ **Appointment Scheduling**: Book and manage appointments with timestamps.
-- ✅ **Emergency Alert System**: Monitor vitals and send alerts when thresholds are crossed.
-- ✅ **Doctor Feedback**: Submit feedback from patients to doctors.
-- ✅ **Chat Module**: Simulated chat between patients and doctors.
-- ✅ **Video Consultation**: Simulated video call system with a meeting link.
-- ✅ **Reminder System**: Schedule and send notifications for medication or appointments.
+- **Patient Management**: Add, list, and manage patients.
+- **Appointment Scheduling**: Book and manage appointments with timestamps.
+- **Emergency Alert System**: Monitor vitals and send alerts when thresholds are crossed.
+- **Doctor Feedback**: Submit feedback from patients to doctors.
+- **Chat Module**: Simulated chat between patients and doctors.
+- **Video Consultation**: Simulated video call system with a meeting link.
+- **Reminder System**: Schedule and send notifications for medication or appointments.
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - Java 17+
 - Java Collections (`List`, `Map`)
@@ -34,7 +32,7 @@ RemoteHealthMonitoringSystem/ ├── emergency/ │ ├── EmergencyAlert.
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 1. **Clone the repository**
 
@@ -50,7 +48,7 @@ Run MainApp.java
 
 This will launch a console-based menu where you can test each module interactively.
 
-👩‍💻 Author
+ Author
 Hamna Shah
 BSDS Student @ NUST
 GitHub Profile
