@@ -52,5 +52,5 @@ This will launch a console-based menu where you can test each module interactive
 
 👩‍💻 Author
 Hamna Shah
-BSCS Student @ NUST
+BSDS Student @ NUST
 GitHub Profile
