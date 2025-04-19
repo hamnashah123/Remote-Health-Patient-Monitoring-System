@@ -1,21 +1,4 @@
-//package emergency;
-//
-//import notifications.Notifiable;
-//
-//public class NotificationService {
-//    private final Notifiable emailNotifier;
-//    private final Notifiable smsNotifier;
-//
-//    public NotificationService(Notifiable email, Notifiable sms) {
-//        this.emailNotifier = email;
-//        this.smsNotifier = sms;
-//    }
-//
-//    public void sendEmergencyAlert(String message) {
-//        emailNotifier.sendNotification("staff@hospital.com", message);
-//        smsNotifier.sendNotification("+92 3315333099", message);
-//    }
-//}
+
 
 package emergency;
 import notifications.Notifiable;

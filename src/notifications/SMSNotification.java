@@ -1,12 +1,3 @@
-//package notifications;
-//
-//public class SMSNotification implements Notifiable {
-//    @Override
-//    public void sendNotification(String recipient, String message) {
-//        System.out.println("[SMS] To: " + recipient + " | " + message);
-//    }
-//}
-//
 
 
 package notifications;

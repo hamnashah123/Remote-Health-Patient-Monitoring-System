@@ -1,26 +1,3 @@
-//package notifications;
-//
-//public class ReminderService {
-//    private final Notifiable notifier;
-//
-//    public ReminderService(Notifiable notifier) {
-//        this.notifier = notifier;
-//    }
-//
-////    public void sendReminder(String patient, String task) {
-////        notifier.sendNotification(patient + "@hospital.com",
-////                "REMINDER: " + task);
-////    }
-//
-//    public void sendReminder(String patient, String task,
-//                              String details) {
-//        String fullMessage = String.format("REMINDER: %s : %s",
-//                task, details);
-//        notifier.sendNotification(patient + "@hospital.com", fullMessage);
-//    }
-//
-//}
-//
 
 package notifications;
 

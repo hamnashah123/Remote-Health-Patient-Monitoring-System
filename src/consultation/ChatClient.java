@@ -1,20 +1,3 @@
-//package consultation;
-//
-//public class ChatClient {
-//    private final String username;
-//    private final ChatServer server;
-//
-//    public ChatClient(String username, ChatServer server) {
-//        this.username = username;
-//        this.server = server;
-//    }
-//
-//    public void send(String receiver, String message) {
-//        server.sendMessage(username, receiver, message);
-//    }
-//}
-//
-//
 
 package consultation;
 

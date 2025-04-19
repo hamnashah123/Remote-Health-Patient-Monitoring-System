@@ -1,13 +1,3 @@
-//package notifications;
-//
-//public class EmailNotification implements Notifiable {
-//    @Override
-//    public void sendNotification(String recipient, String message) {
-//        System.out.println("[EMAIL] To: " + recipient + " | " + message);
-//    }
-//}
-//
-//
 
 package notifications;
 
